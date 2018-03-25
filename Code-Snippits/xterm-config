@@ -1,0 +1,24 @@
+# ! Black + DarkGray
+XTerm*color0:  #232729
+XTerm*color8:  #6B6D76
+#! Red + Light Red
+XTerm*color1:  #F9564F
+XTerm*color9:  #F87873
+#! Green + Light Green
+XTerm*color2:  #9AE19D
+XTerm*color10: #A2DFA4
+#! Brown/Yellow + Yellow
+XTerm*color3:  #FCFC62
+XTerm*color11: #F7F78A
+#! Blue + Light Blue
+XTerm*color4:  #9AE5E6
+XTerm*color12: #A6E3E4
+#! Magenta + Light Magenta
+XTerm*color5:  #E3DCC2
+XTerm*color13: #E4DEC9
+#!Cyan + Light Cyan
+XTerm*color6:  #A8F9FF
+XTerm*color14: #BAFAFF
+#! LightGray + White
+XTerm*color7:  #EFEFEF
+XTerm*color15: #FDFDFF
